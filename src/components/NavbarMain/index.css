@@ -1,0 +1,21 @@
+.navbar {
+    background-color:#fff !important;
+    
+    }
+    .main_logo{
+        height: 40px;
+        width: auto;
+    }
+    
+.hover_catalogo:hover+ .hovermenu{
+       
+        display: flex;
+       
+}
+.hovermenu:hover{
+    display: flex;
+  
+}
+.test{
+    position: relative;
+}

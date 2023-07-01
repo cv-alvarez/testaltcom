@@ -1,0 +1,116 @@
+{
+  "proteccion-de-cabeza": [
+    {
+      "nombre": "casco-3m-h7001",
+      "descripcion": "<ul>\n\t <li>PERMITEN ADAPTAR BARBIQUEJO DE TRES PUNTOS DE APOYO PARA TRABAJO EN ALTURAS, Y OTROS ELEMENTOS PARA PROTECCI\u00d3N FACIAL, AUDITIVA AS\u00cd COMO CARETAS PARA SOLDADURA.</li>\n\t <li>MATERIALES DE LA CUBIERTA EXTERIOR: POLIETILENO DE ALTA DENSIDAD (PEAD)</li>\n\t <li>MATERIAL DEL PAD PARA LA FRENTE: RETARDANTE DE LLAMA, VENTILADO FABRICADO VINILO ACOLCHADO</li>\n\t <li>MATERIAL DE LA CORONA CORREA: TEXTIL</li>\n\t <li>CUMPLE NORMATIVA ANSI Z89.1 TIPO 1 CLASE G, C Y E</li>\n</ul>",
+      "imagen": "/src/assets/img/Casco3MH700.png",
+      "categoria": "Protección de Cabeza"
+    },
+    {
+      "nombre": "Casco-MSA-V-GARD-JOCKEY",
+      "descripcion": "<ul>\n\t <li>RESISTENTE Y LIGERO</li>\n\t <li>TIPO I IMPACTO SUPERIOR</li>\n\t <li>RANURAS LATERALES PARA UN PERFECTO ACOPLAMIENTO DE ACCESORIOS PARA PROTECCIÓN FACIAL Y AUDITIVA MSA.</li>\n\t <li>PROPIEDAD DIELÉCTRICA (NO CONDUCE LA ELECTRICIDAD) CLASE E, HASTA 20000 VOLTIOS.</li>\n\t</ul>",
+      "imagen": "/src/assets/img/casco-msa-guard.png",
+      "categoria": "Protección de Cabeza"
+    },
+    {
+      "nombre": "DELTA-PLUS-QUARTZ-UP-III",
+      "descripcion": "<ul>\n\t <li>CASCO DE OBRA DE POLIPROPILENO (PP) DE ALTA DENSIDAD, CON TRATAMIENTO ULTRAVIOLETA.</li>\n\t <li>ARNÉS INTERIOR POLIAMIDA : 3 BANDAS TEXTILES CON 8 PUNTOS DE FIJACIÓN.</li>\n\t <li>SUDADERA DE ESPONJA. SISTEMA DE AJUSTE ROTOR : DESDE LOS 53 A LOS 63 CM DE CIRCUNFERENCIA DE LA CABEZA.</li>\n\t <li>2 POSICIONES POSIBLES DEL CONTORNO DE LA CABEZA (ALTO / BAJO) PARA UN MEJOR CONFORT.</li>\n\t <li>AISLAMIENTO ELÉCTRICO HASTA 1000VAC O 1500 VCC.</li>\n</ul>",
+      "imagen": "/src/assets/img/cascodeltaplus.png",
+      "categoria": "Protección de Cabeza"
+    }
+  ],
+  "proteccion-manual": [
+    {
+      "nombre": "GUANTES BADANA STEELPRO",
+      "descripcion": "<ul>\n\t <li>Material en Cuero bovino amarillo con puño de seguridad. Grosor de 0,9-1,1mm.</li>\n\t <li>Puño corto</li>\n\t <li>Dorso elástico.</li>\n\t <li>Costuras internas reforzadas.</li>\n\t <li>Elástico en dorso de la mano para mayor ajuste.</li>\n</ul>",
+      "imagen": "/src/assets/img/guantesteelpro.png",
+      "categoria": "Protección manual"
+    },
+    {
+      "nombre": "GUANTES DE BADANA - CLUTE",
+      "descripcion": "<ul>\n\t <li>Guante de buena resistencia y sensibilidad al tacto.</li>\n\t <li>Brinda comodidad y flexibilidad durante el trabajo.</li>\n\t <li>Estilo con elástico de ajuste en el dorso y ribete bordado en la muñeca.</li>\n\t <li>Material de cuero grado BC.</li>\n\t <li>Largo de 9.5”.</li>\n</ul>",
+      "imagen": "/src/assets/img/guantesclub.png",
+      "categoria": "Protección manual"
+    },
+    {
+      "nombre": "GUANTE CALIBRE 40 - MASTER",
+      "descripcion": "<ul>\n\t <li>Producto a base de látex natural con excelente elasticidad.</li>\n\t <li>Ergonómico y anatómico.</li>\n\t <li>Tratado interiormente para un fácil colocado.</li>\n\t <li>Halogenados para disminuir la presencia y químicos residuales que podrían causar alergias.</li>\n\t <li>Resistente a: Resistentes detergentes, blanqueadores y una amplia gama de soluciones ácidas.</li>\n</ul>",
+      "imagen": "/src/assets/img/calibre 40.png",
+      "categoria": "Protección manual"
+    },
+    {
+      "nombre": "GUANTE CALIBRE 35 PROTEX",
+      "descripcion": "<ul>\n\t <li>Guantes de látex de muy alta calidad diseñados para todas las necesidades a nivel industrial e institucional.</li>\n\t <li>Nuestra línea de guantes Protex C-35 tiene un calibre ideal que proporciona buena destreza en la manipulación de objetos, con una excelente resistencia mecánica, brindando un excelente desempeño y mayor protección en actividades laborales de carga media.</li>\n</ul>",
+      "imagen": "/src/assets/img/guantajebecalibre.png",
+      "categoria": "Protección manual"
+    },
+    {
+      "nombre": "NITRILO ANSELL 37-175",
+      "descripcion": "<ul>\n\t <li>Combinando solidez y resistencia química, protege las manos de los trabajadores expuestos a una mayor variedad de riesgos químicos</li>\n\t <li>Compuesto de nitrilo de alto rendimiento que ofrece una magnífica combinación de resistencia química y solidez, para unos resultados óptimos en entornos de trabajo húmedos o secos</li>\n\t <li>El guante ofrece una mayor protección contra desgarros, perforaciones y abrasión, comparado con los guantes de caucho o de neopreno</li>\n\t <li>Alto niveles de flexibilidad, comodidad y destreza</li>\n\t <li>No se deforma, debilita o degrada y no contribuye a la aparición de dermatitis por contacto</li>\n</ul>",
+      "imagen": "/src/assets/img/nitrillo corto.png",
+      "categoria": "Protección manual"
+    },
+    {
+      "nombre": "NITRILO ANSELL 37-185",
+      "descripcion": "<ul>\n\t <li>Los guantes de nitrilo Sol-Vex son la elección ideal para una manipulación segura en una extensa gama de entornos de trabajo con productos químicos peligrosos.</li>\n\t <li>La versión sin forro no suelta pelusas, evitando el riesgo de contaminación y favoreciendo su uso en áreas de producción sensibles a la introducción de impurezas externas.</li>\n\t <li>El acabado en rombos invertidos mejora aún más los niveles de agarre.</li>\n\t <li>El acabado tipo arena suave aporta al guante una superficie suave que incide en la reducción de costes indirectos al contribuir a un menor rechazo en la producción de piezas frágiles.</li>\n</ul>",
+      "imagen": "/src/assets/img/nitrilolargo.png",
+      "categoria": "Protección manual"
+    },
+    {
+      "nombre": "G40 PU KLEENGUARD CLARK",
+      "descripcion": "<ul>\n\t <li>Los guantes de nitrilo Sol-Vex son la elección ideal para una manipulación segura en una extensa gama de entornos de trabajo con productos químicos peligrosos.</li>\n\t <li>La versión sin forro no suelta pelusas, evitando el riesgo de contaminación y favoreciendo su uso en áreas de producción sensibles a la introducción de impurezas externas.</li>\n\t <li>El acabado en rombos invertidos mejora aún más los niveles de agarre.</li>\n\t <li>El acabado tipo arena suave aporta al guante una superficie suave que incide en la reducción de costes indirectos al contribuir a un menor rechazo en la producción de piezas frágiles.</li>\n</ul>",
+      "imagen": "/src/assets/img/nitrilolargo.png",
+      "categoria": "Protección manual"
+    }
+  ],
+  "proteccion-auditiva": [
+    {
+      "nombre": "PROTECTOR DE OÍDOS HUNTER CLUTE",
+      "descripcion": "<ul>\n\t <li>PROTECTOR DE OÍDOS HUNTER CLUTE</li>\n\t <li>Protector auditivo adosable al casco HUNTER de CLUTE brinda protección a los trabajadores que laboran en lugares donde los niveles de ruido superan los 85 dB(A).</li>\n\t <li>Este protector auditivo está diseñado para proteger contra los riesgos diarios producidos por el ruido de manera de evitar pérdidas de audición.</li>\n\t <li>Protección contra ruidos mayores de 85 dB(A)</li>\n\t <li>Copas de polipropileno ultra livianas Dieléctrico</li>\n\t <li>Certificación CE EN 352-3:2002</li>\n</ul>",
+      "imagen": "/src/assets/img/audifono1.png",
+      "categoria": "Protección auditiva"
+    },
+    {
+      "nombre": "PROTECTOR DE OÍDOS HUNTER EY49H CLUTE",
+      "descripcion": "<ul>\n\t <li>PROTECTOR DE OIDOS EY49H CLUTE</li>\n\t <li>Los protectores auditivos CLUTE están diseñados para proteger contra los riesgos diarios producidos por el ruido de manera de evitar pérdidas de audición.</li>\n\t <li>Es un protector auditivo dieléctrico ya que no posee componentes metálicos. Posee el suficiente espacio para generar el acople a todo tipo de orejas, sea cual fuere su tamaño.</li>\n\t <li>Este protector es la combinación perfecta de comodidad y rendimiento</li>\n\t <li>NRR: 27dB</li>\n\t <li>Copas de polipropileno ultra livianas</li>\n\t <li>Dieléctrico</li>\n</ul>",
+      "imagen": "/src/assets/img/audifonos2.png",
+      "categoria": "Protección auditiva"
+    },
+    {
+      "nombre": "OREJERA CM 501 STEELPRO",
+      "descripcion": "<ul>\n\t <li>OREJERA CM 501 STEELPRO</li>\n\t <li>Modelo CM – 501 es la combinación perfecta de comodidad y rendimiento.</li>\n\t <li>Posee el suficiente espacio para generar el acople a todo tipo de orejas, sea cual fuere su tamaño.</li>\n\t <li>Peso de 230 gramos.</li>\n\t <li>NRR 23 db.</li>\n\t <li>Puede ser utilizado en aplicaciones tales como: Aeropuertos, minería, industria pesquera, cuarto de máquinas, etc.</li>\n</ul>",
+      "imagen": "/src/assets/img/audifono3.png",
+      "categoria": "Protección auditiva"
+    },
+    {
+      "nombre": "OREJERA TIPO VINCHA SAMURAI STEELPRO",
+      "descripcion": "<ul>\n\t <li>Los livianos protectores auditivos tipo fono modelo SAMURAI de STEELPRO, brindan una efectiva protección a los trabajadores que se desempeñan en áreas donde los niveles de ruido superan los 85 dB(A) durante 8 hrs. de exposición efectiva.</li>\n\t <li>Sus suaves almohadillas de espuma proporcionan un ajuste cómodo y seguro para una efectiva protección del ruido al que puede estar expuesto el usuario.</li>\n\t <li>El arco del fono admite fácil desplazamiento en la nuca, lo que permite el uso de casco tipo ala.</li>\n</ul>",
+      "imagen": "/src/assets/img/audifono4.png",
+      "categoria": "Protección auditiva"
+    },
+    {
+      "nombre": "3M Orejeras Peltor Optime H10A con banda 30dB",
+      "descripcion": "<ul>\n\t <li>Orejera 3M Peltor H10A con Banda 30 dB están diseñados para proveer efectiva protección contra ruido cuando se usan de acuerdo con las instrucciones de colocación y se aplican los criterios para la selección de equipos de protección auditiva.</li>\n\t <li>Las orejera 3M PELTOR H10A modelo OPTIME son fabricadas con materiales hipoalergénicos y de muy bajo peso, brindando una efectiva e higiénica protección a los trabajadores que se desempeñan en áreas donde los niveles de ruido alcanzan hasta 105dB por jornada de trabajo.</li>\n\t <li>Arco de acero inoxidable con banda acolchonada sobre la cabeza.</li>\n\t <li>Longitud ajustable de los brazos del arco; y copas pivotantes para mayor compatibilidad, seguridad y comodidad.</li>\n\t <li>NRR: 30dB. Indicación del máximo nivel de exposición de ruido (105dB) en las copas.</li>\n</ul>",
+      "imagen": "/src/assets/img/audifono5.png",
+      "categoria": "Protección auditiva"
+    },
+    {
+      "nombre": "Orejera 3M H9A Peltor con Banda 25 dB",
+      "descripcion": "<ul>\n\t <li>Orejera 3M H9A Peltor con Banda 25 dB</li>\n\t <li>Están diseñados para proveer efectiva protección contra ruido cuando se usan de acuerdo con las instrucciones de colocación y se aplican los criterios para la selección de equipos de protección auditiva.</li>\n\t <li>Las orejeras PELTOR H9A modelo OPTIME son fabricadas con materiales hipoalergénicos y de muy bajo peso, brindando una efectiva e higiénica protección a los trabajadores que se desempeñan en áreas donde los niveles de ruido alcanzan hasta 98dB por jornada de trabajo.</li>\n\t <li>Arco de acero inoxidable con banda acolchonada sobre la cabeza.</li>\n\t <li>Longitud ajustable de los brazos del arco; y copas pivotantes para mayor compatibilidad, seguridad y comodidad.</li>\n\t <li>NRR: 25dB. Indicación del máximo nivel de exposición de ruido (98dB) en las copas.</li>\n\t <li>Copas de ABS; cubierta de almohadilla de PVC, y espuma de poliuretano.</li>\n</ul>",
+      "imagen": "/src/assets/img/audifono6.png",
+      "categoria": "Protección auditiva"
+    },
+    {
+      "nombre": "OREJERA PELTOR H9P3E 3M",
+      "descripcion": "<ul>\n\t <li>3M Peltor Optime 98 orejeras sobre casco con sujeción de montaje universal que se adapta a la mayoría de los cascos.</li>\n\t <li>Beneficios</li>\n\t <li>La montura de sujeción universal se ajusta a la mayoría de los cascos.</li>\n\t <li>La construcción de acero inoxidable es resistente a la flexión y la deformación.</li>\n\t <li>Los puntos de giro se inclinan para comodidad y eficiencia óptimas.</li>\n\t <li>Cojines de orejera ligeros con relleno de líquido/espuma.</li>\n\t <li>Codificación de color para cumplimiento de avistamiento. Para niveles de ruido de hasta 95 dBA.</li>\n</ul>",
+      "imagen": "/src/assets/img/audifono7.png",
+      "categoria": "Protección auditiva"
+    },
+    {
+      "nombre": "OREJERA PELTOR H10P3E 3M",
+      "descripcion": "<ul>\n\t <li>Las 3M™ Peltor™ Optime™ 105 orejeras sobre cabeza cuentan con tecnología de doble capa para proporcionar una protección auditiva efectiva.</li>\n\t <li>Para niveles de sonido de hasta 105 dBA, estas orejeras sobre cabeza cuentan con tecnología de doble capa para proporcionar protección auditiva eficaz.</li>\n\t <li>El diseño patentado Twin-Cup tiene orejeras suaves, rellenas de espuma.</li>\n\t <li>Diadema de acero inoxidable que distribuye el peso para un ajuste de baja presión.</li>\n\t <li>El pivote del audífono se inclina para comodidad y eficiencia óptimas.</li>\n\t <li>Cojines de orejera rellenos con líquido/espuma.</li>\n\t <li>Código de color que ayuda a satisfacer las necesidades de atenuación.</li>\n\t <li>Índice de Reducción de Ruido (NRR)*: 27 dB. CSA Clase AL. * El NRR puede sobrestimar la protección auditiva proporcionada durante un uso típico. 3M recomienda reducir el NRR en un 50% para estimar la cantidad de reducción de sonido proporcionada.</li>\n\t <li>3M es Líder en la Promoción de la Conservación de la Audición.</li>\n</ul>",
+      "imagen": "/src/assets/img/audifono8.png",
+      "categoria": "Protección auditiva"
+    }
+  ]
+}

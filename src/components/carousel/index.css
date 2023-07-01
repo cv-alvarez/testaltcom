@@ -1,0 +1,26 @@
+.logos_carousel {
+  height: 50px;
+}
+.slick-next:before {
+  /* Estilos personalizados */
+
+  /* Otros estilos que desees aplicar */
+  font-size: 30px;
+  color: black;
+}
+.slick-prev:before {
+  /* Estilos personalizados */
+
+  /* Otros estilos que desees aplicar */
+  font-size: 30px;
+  color: black;
+}
+.logo_container {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+
+.slider {
+  margin-bottom: 80px;
+}

@@ -1,0 +1,116 @@
+.Catalog_Container_main {
+  min-height: calc(100vh - 20px);
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .Catalog_Container_main {
+    height: auto;
+  }
+}
+.imgcardscatalog {
+  margin-top: 15px;
+}
+.cards {
+  height: 250px;
+  background-color: transparent;
+  border: 1px solid black;
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  margin-bottom: 20px;
+  padding: 0 10px 10px 10px;
+}
+
+.cards p {
+  background-color: rgb(175, 201, 250);
+  color: #333333;
+  width: 100%;
+  font-size: 16px;
+  padding: 10px;
+  margin: 0;
+  padding: 8px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.cards .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgb(67, 96, 151);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.cards:hover .overlay {
+  opacity: 1;
+}
+
+.cards:hover .overlay p {
+  opacity: 1;
+}
+
+.cards .overlay p {
+  font-size: 24px;
+  margin: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.cards:hover p,
+.cards:hover img {
+  opacity: 0;
+}
+
+.linkdetalle {
+  background-color: none;
+  color: white;
+  font-weight: 700;
+  font-size: 17px;
+  text-decoration: none;
+}
+
+.inputfind {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.inputfind input {
+  border: 3px solid rgb(67, 96, 151);
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+.inputfind input:focus {
+  outline: none;
+  border: 3px solid rgb(67, 96, 151);
+}
+
+.inputfind input::placeholder {
+  color: rgb(97, 125, 179);
+}
+
+.catalog-title {
+  font-weight: bold;
+  color: #fff;
+  font-size: 20px;
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: rgb(42, 73, 129);
+  border-radius: 5px;
+}

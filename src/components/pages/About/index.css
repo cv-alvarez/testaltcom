@@ -1,0 +1,25 @@
+.about-container {
+  max-width: 1440px;
+  height: 75vh;
+  margin: 50px auto 0;
+  text-align: justify;
+}
+@media (max-width: 768px) {
+  .about-container {
+    height: auto;
+  }
+}
+
+.about-title {
+  color: orange;
+  font-weight: bold;
+}
+
+.highlight {
+  color: rgb(42 65 107);
+  font-weight: 700;
+}
+
+.about-container p {
+  margin-bottom: 20px;
+}

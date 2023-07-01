@@ -1,0 +1,70 @@
+{
+    "categorias": [
+      {
+        "id": 1,
+        "nombre": "SEÑALIZACION Y REFLECTIVOS",
+        "url": "senalizacion-y-reflectivos"
+      },
+      {
+        "id": 2,
+        "nombre": "PROTECCION VISUAL",
+        "url": "proteccion-visual"
+      },
+      {
+        "id": 3,
+        "nombre": "PROTECCION RESPIRATORIA",
+        "url": "proteccion-respiratoria"
+      },
+      {
+        "id": 4,
+        "nombre": "PROTECCION MANUAL",
+        "url": "proteccion-manual"
+      },
+      {
+        "id": 5,
+        "nombre": "PROTECCION FACIAL",
+        "url": "proteccion-facial"
+      },
+      {
+        "id": 6,
+        "nombre": "PROTECCION DE CABEZA",
+        "url": "proteccion-de-cabeza"
+      },
+      {
+        "id": 7,
+        "nombre": "PROTECCION CORPORAL",
+        "url": "proteccion-corporal"
+      },
+      {
+        "id": 8,
+        "nombre": "PROTECCION CONTRA CAIDAS",
+        "url": "proteccion-contra-caidas"
+      },
+      {
+        "id": 9,
+        "nombre": "PROTECCION AUDITIVA",
+        "url": "proteccion-auditiva"
+      },
+      {
+        "id": 10,
+        "nombre": "KITS ANTIDERRAME",
+        "url": "kits-antiderrame"
+      },
+      {
+        "id": 11,
+        "nombre": "INSUMOS DE LIMPIEZA",
+        "url": "insumos-de-limpieza"
+      },
+      {
+        "id": 12,
+        "nombre": "EQUIPOS DE BLOQUEO",
+        "url": "equipos-de-bloqueo"
+      },
+      {
+        "id": 13,
+        "nombre": "CALZADO DE SEGURIDAD",
+        "url": "calzado-de-seguridad"
+      }
+    ]
+  }
+  

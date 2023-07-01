@@ -1,0 +1,37 @@
+.banner_img {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  row-gap: 20px;
+  justify-content: center;
+  height: 400px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.507), rgba(0, 0, 0, 0.5)),
+    url("../../assets/img/banner_tienda_herramientas.jpg");
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.bannersection {
+  background-color: rgb(42 65 107);
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+h1 {
+  font-size: 24px;
+  text-align: center;
+  color: white;
+}
+@media (max-width: 768px) {
+  h1 {
+    font-size: 18px;
+  }
+}
+button {
+  border: 2px solid rgba(15, 82, 141, 0.6) !important;
+}

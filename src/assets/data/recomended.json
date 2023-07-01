@@ -1,0 +1,28 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "PROTECCIÓN DE CABEZA",
+      "imagen": "/src/assets/img/Casco3MH700.png",
+      "url": "proteccion-de-cabeza"
+    },
+    {
+      "id": 2,
+      "nombre": "PROTECCION VISUAL",
+      "imagen": "/src/assets/img/lentes1.png",
+      "url": "proteccion-visual"
+    },
+    {
+      "id": 3,
+      "nombre": "PROTECCION MANUAL",
+      "imagen": "/src/assets/img/guantesteelpro.png",
+      "url": "proteccion-manual"
+    },
+    {
+      "id": 3,
+      "nombre": "PROTECCION AUDITIVA",
+      "imagen": "/src/assets/img/audifono8.png",
+      "url": "proteccion-auditiva"
+    }
+  ]
+}
